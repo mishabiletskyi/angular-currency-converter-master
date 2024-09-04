@@ -1,4 +1,4 @@
-import { Currency } from './Currency';
+import { Currency } from '../interface/currency-interface';
 
 
 export const CURRENCIES: Currency[] = [
